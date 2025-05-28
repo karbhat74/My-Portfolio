@@ -1,0 +1,70 @@
+[
+  {
+    "name": "HTML5",
+    "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+  },
+  {
+    "name": "CSS3",
+    "icon": "https://img.icons8.com/color/48/000000/css3.png"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+  },
+  {
+    "name": "Java",
+    "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+  },
+  {
+    "name": "Python",
+    "icon": "https://img.icons8.com/color/48/000000/python.png"
+  },
+  {
+    "name": "C",
+    "icon": "https://img.icons8.com/color/48/000000/c.png"
+  },
+  {
+    "name": "PowerBI",
+    "icon": "https://img.icons8.com/color/48/000000/power-bi-2021"
+  },
+  {
+    "name": "Python",
+    "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+  },
+  {
+    "name": "MongoDB",
+    "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+  },
+  {
+    "name": "MySQL",
+    "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+  },
+  {
+    "name": "Netlify",
+    "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+  },
+  {
+    "name": "Git",
+    "icon": "https://img.icons8.com/color/48/000000/git.png"
+  },
+  {
+    "name": "GitHub",
+    "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+  },
+  {
+    "name": "VS Code",
+    "icon": "https://img.icons8.com/color/48/000000/visual-studio-code-2019"
+  },
+  {
+    "name": "Anaconda",
+    "icon": "https://img.icons8.com/?size=48&id=F4uMFPZgS0gt&format=png&color=000000"
+  },
+  {
+    "name": "Metamask",
+    "icon": "https://img.icons8.com/?size=96&id=Oi106YG9IoLv&format=png"
+  },
+  {
+    "name": "Bootstrap",
+    "icon": "https://img.icons8.com/?size=96&id=PndQWK6M1Hjo&format=png"
+  }
+]
